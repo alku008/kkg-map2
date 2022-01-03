@@ -6,7 +6,7 @@ WA.onInit().then(() => {
 
 	// Open the popup when we enter a given zone
 	helloWorldPopup = WA.room.onEnterLayer("silentzone").subscribe(() => {
-		WA.ui.openPopup("popupSilent", 'Hello world!', [{
+		WA.ui.openPopup("popupSilent", 'In der Silent-Zone!', [{
 			label: "Close",
 			className: "primary",
 			callback: (popup) => {
