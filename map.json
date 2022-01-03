@@ -37,6 +37,11 @@
                  "name":"silent",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"silentTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
