@@ -32,6 +32,12 @@
          "id":42,
          "name":"silentzone",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
