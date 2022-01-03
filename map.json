@@ -222,6 +222,17 @@
                  "width":128,
                  "x":512,
                  "y":0
+                }, 
+                {
+                 "height":117.97336478451,
+                 "id":9,
+                 "name":"popupSilent",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":183.297459334611,
+                 "x":39.9744459187184,
+                 "y":105.298540468819
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -266,7 +277,7 @@
          "y":0
         }],
  "nextlayerid":46,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
