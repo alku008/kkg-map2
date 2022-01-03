@@ -24,10 +24,12 @@ WA.onInit().then(() => {
 	
 	// Open the popup when we enter a given zone
 	helloWorldPopup = WA.room.onEnterLayer("eingang").subscribe(() => {
+		WA.controls.disablePlayerControls();
 		WA.ui.openPopup("popupEingang", 'Die lila Flächen sind Meeting Flächen!', [{
 			label: "schliessen",
 			className: "primary",
 			callback: (popup) => {
+				WA.controls.restorePlayerControls();
 				// Close the popup when the "Close" button is pressed.
 				popup.close();
 			}
