@@ -22,9 +22,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"website",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/tis.li-hamburg.de\/home"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -40,9 +45,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"website",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/li.hamburg.de\/aktuelles\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
