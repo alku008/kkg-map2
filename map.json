@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lms.lernen.hamburg"
+                 "value":"https:\/\/li.hamburg.de\/aktuelles\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
