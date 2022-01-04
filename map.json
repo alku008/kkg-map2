@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"lms.lernen.hamburg"
+                 "value":"https:\/\/lms.lernen.hamburg"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
