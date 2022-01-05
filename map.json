@@ -47,7 +47,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/li.hamburg.de\/aktuelles\/"
+                 "value":"https:\/\/li.hamburg.de\/mathematik\/newsletter\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
