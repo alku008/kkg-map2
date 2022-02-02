@@ -146,6 +146,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke 'Space' oder ber\u00fchre hier um die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
