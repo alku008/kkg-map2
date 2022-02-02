@@ -140,7 +140,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=7F4HcnC7wis"
+                 "value":"https:\/\/www.youtube.com\/embed\/7F4HcnC7wis"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=7Av1kR5TnIA"
+                 "value":"https:\/\/www.youtube.com\/embed\/7Av1kR5TnIA"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=CD6BCdFHogg "
+                 "value":"https:\/\/www.youtube.com\/watch?v=CD6BCdFHogg"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
