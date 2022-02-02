@@ -209,7 +209,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lms.lernen.hamburg\/course\/view.php?id=16481"
+                 "value":"https:\/\/lms.lernen.hamburg\/course\/view.php?id=5860"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -232,7 +232,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lms.lernen.hamburg\/course\/view.php?id=5860"
+                 "value":"https:\/\/lms.lernen.hamburg\/course\/view.php?id=16481"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
