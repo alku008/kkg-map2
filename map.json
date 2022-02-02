@@ -191,7 +191,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=CD6BCdFHogg"
+                 "value":"https:\/\/www.youtube.com\/embed\/CD6BCdFHogg"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
