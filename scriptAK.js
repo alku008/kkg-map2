@@ -3,6 +3,14 @@ WA.onInit().then(() => {
     console.log('Current player name: ', WA.player.name);
 	WA.chat.sendChatMessage('Herzlich willkommen! ', 'Admin');
 	
+	//Links im Chat anzeigen, falls sie nicht funktionieren
+	WA.room.onEnterLayer("mathezone1").subscribe(() => {
+		WA.chat.sendChatMessage('Wenn der Link hier nicht funktioniert, siehe hier: https://lms.lernen.hamburg/course/view.php?id=5860', 'Admin');				
+	});
+	
+	WA.room.onEnterLayer("mathezone2").subscribe(() => {
+		WA.chat.sendChatMessage('Wenn der Link hier nicht funktioniert, siehe hier: https://lms.lernen.hamburg/course/view.php?id=16481', 'Admin');				
+	});
 	
 
 	// Open the popup when we enter a given zone
