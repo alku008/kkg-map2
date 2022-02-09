@@ -31,7 +31,7 @@ WA.onInit().then(() => {
 	});
 	
 	// Open the popup when we enter a given zone
-	helloWorldPopup = WA.room.onEnterLayer("eingang").subscribe(() => {
+	/*helloWorldPopup = WA.room.onEnterLayer("eingang").subscribe(() => {
 		WA.controls.disablePlayerControls();
 		WA.ui.openPopup("popupEingang", 'Die lila Fläche ist eine Meeting Fläche! An den Bildschirmen warten ein paar Überraschungen auf dich!', [{
 			label: "schliessen",
@@ -47,5 +47,5 @@ WA.onInit().then(() => {
 	// Close the popup when we leave the zone.
 	WA.room.onLeaveLayer("eingang").subscribe(() => {
 		helloWorldPopup.close();
-	});
+	});*/
 });
