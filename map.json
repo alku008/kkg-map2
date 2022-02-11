@@ -319,11 +319,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"\"openWebsiteTriggerMessage\n",
-                 "type":"string",
-                 "value":"Dr\u00fccke 'Space' oder ber\u00fchre hier um die Website zu \u00f6ffnen"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.geogebra.org\/m\/yjv62ujk"
@@ -332,6 +327,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke 'Space' oder ber\u00fchre hier um die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
