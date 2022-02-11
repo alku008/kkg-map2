@@ -1,7 +1,7 @@
 let helloWorldPopup;
 WA.onInit().then(() => {
     console.log('Current player name: ', WA.player.name);
-	WA.chat.sendChatMessage('Herzlich willkommen! ', 'Admin');
+	WA.chat.sendChatMessage('Herzlich willkommen! Sie befinden sich im interaktiven MINT-Raum! ', 'Admin');
 	
 	//Links im Chat anzeigen, falls sie nicht funktionieren
 	WA.room.onEnterLayer("mathezone1").subscribe(() => {
